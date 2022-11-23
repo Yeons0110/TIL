@@ -3,6 +3,8 @@
 ## 2022년 11월 24일(목)
 - unity로 **`CRUD`** 구현하기 
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74572293/203623097-8adcb312-bb98-4264-a0bf-210c7248b406.gif)
+
 ---
 
 
