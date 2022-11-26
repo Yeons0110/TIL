@@ -9,3 +9,6 @@
 - unity로 Dynamic Weapon Wheel 구현하기
 https://github.com/JazzRhodes/Dynamic-Weapon-Wheel-for-Unity
 - Ping System
+
+## 2022년 11월 26일(토)
+- pytorch CNN, MLP
