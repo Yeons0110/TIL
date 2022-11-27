@@ -12,3 +12,6 @@ https://github.com/JazzRhodes/Dynamic-Weapon-Wheel-for-Unity
 
 ## 2022년 11월 26일(토)
 - pytorch CNN, MLP
+
+## 2022년 11월 28일(월)
+- npm start
