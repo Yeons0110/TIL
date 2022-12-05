@@ -11,3 +11,6 @@
 
 ## 2022년 12월 4일(일)
 - unity PlayerPrefs.GetString study
+
+## 2022년 12월 5일(월)
+- unity json file
