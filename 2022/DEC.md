@@ -13,4 +13,13 @@
 - unity PlayerPrefs.GetString study
 
 ## 2022년 12월 5일(월)
-- unity json file
+- unity json file(1)
+
+## 2022년 12월 6일(화)
+- unity json file(2)
+
+## 2022년 12월 7일(수)
+- 분류, 회귀
+
+## 2022년 12월 8일(목)
+- software engineering
