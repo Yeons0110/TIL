@@ -23,3 +23,6 @@
 
 ## 2022년 12월 8일(목)
 - software engineering
+
+## 2022년 12월 9일(금)
+- Database + PHP + C#
