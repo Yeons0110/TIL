@@ -35,3 +35,11 @@
 
 ## 2022년 12월 12일(월)
 - CNN (https://velog.io/@yeons0110/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%BB%A8%EB%B3%BC%EB%A3%A8%EC%85%98-%EC%8B%A0%EA%B2%BD%EB%A7%9D)
+
+## 2022년 12월 12일(화)
+- 회원가입 성공
+## 2022년 12월 12일(수)
+- 로그인 및 마이페이지 연동 성공
+
+## 2022년 12월 12일(목)
+- firmware counter 공부
