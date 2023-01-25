@@ -74,3 +74,7 @@
 
 - unity protection
 
+## 2023년 1월 25일(수)
+- unity design pattern (mvp)
+- 기술 정리 https://velog.io/@yeons0110/unity-MVP패턴은-왜-쓰는가
+
