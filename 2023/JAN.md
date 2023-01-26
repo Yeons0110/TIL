@@ -78,3 +78,6 @@
 - unity design pattern (mvp)
 - 기술 정리 https://velog.io/@yeons0110/unity-MVP패턴은-왜-쓰는가
 
+## 2023년 1월 26일(목)
+- 비동기 데이터 스트림 처리, Rx
+- 기술 정리 https://velog.io/@yeons0110/UniRx
