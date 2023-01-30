@@ -92,3 +92,6 @@
 ## 2023년 1월 29일(일)
 - UniRx에 이어 buffer, throttle, UpdateAsObservable 개념에 대해 알아보기
 - 기술 정리 https://velog.io/@yeons0110/UniRx2-UpdateAsObservable의-정확한-뜻은-쓰는-이유는
+
+## 2023년 1월 30일(월)
+- Opic 모의시험
