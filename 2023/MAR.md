@@ -1,3 +1,12 @@
 ## 2023년 3월 1일(수)
 
 - 드로우 앤드류의 럭키 드로우
+
+## 2023년 3월 2일(목)
+
+- 유니티 게임 이펙트 입문
+- 씬 개념 + DontDestroyOnLoad(GameObject)
+- 앵커
+- Rigidbody 옵션
+- Terrain 기능
+ 추후 벨로그에 정리
