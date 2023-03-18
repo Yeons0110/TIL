@@ -45,6 +45,6 @@ https://velog.io/@yeons0110/URP-유니티-렌더링-파이프라인-내용-정�
 
 ## 2023년 3월 18일(토)
 - 나로부터 공간의 의미 알아가기
-- 거인의 기록
-- ![image](https://user-images.githubusercontent.com/74572293/226111828-c4b9d9f9-152e-4f81-83a3-9543c1853196.png)
+- 거인의 기록 독서
+![image](https://user-images.githubusercontent.com/74572293/226111828-c4b9d9f9-152e-4f81-83a3-9543c1853196.png)
 
